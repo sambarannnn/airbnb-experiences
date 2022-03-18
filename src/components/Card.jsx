@@ -10,9 +10,9 @@ export default function Card(props) {
     return (
         <div className="card">
             {badgeText !== "" && <div className="card--badge">{badgeText}</div>}
-            <img src = {`https://raw.githubusercontent.com/sambarannnn/airbnb-experiences/gh-pages/images/${props.item.coverImg}`} className = "card--image"/>
+            <img src = {`https://raw.githubusercontent.com/sambarannnn/airbnb-experiences/master/public/images/${props.item.coverImg}`} className = "card--image"/>
             <div className = "card--stats">
-                <img src = {`https://raw.githubusercontent.com/sambarannnn/airbnb-experiences/gh-pages/images/star.png`} className = "star"/>
+                <img src = {`https://raw.githubusercontent.com/sambarannnn/airbnb-experiences/master/public/images/star.png`} className = "star"/>
                 <span className = "grey">{props.item.stats.rating}</span>
                 <span className = "grey">({props.item.stats.reviewCount}) • </span>
                 <span className = "grey">{props.item.location}</span>

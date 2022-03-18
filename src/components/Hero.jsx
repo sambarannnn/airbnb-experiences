@@ -3,7 +3,7 @@ import React from "react";
 export default function Hero() {
     return (
         <section className="hero">
-            <img src = {`https://raw.githubusercontent.com/sambarannnn/airbnb-experiences/gh-pages/images/photo-grid.png`} className = "hero--photo"/>
+            <img src = {`https://raw.githubusercontent.com/sambarannnn/airbnb-experiences/master/public/images/photo-grid.png`} className = "hero--photo"/>
             <h1 className = "hero--header">Online Experiences </h1>
             <p className = "hero--text">
                 Join unique interactive activities led 
