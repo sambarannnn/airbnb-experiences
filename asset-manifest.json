@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aribnb-experiences/static/css/main.424a8f97.css",
+    "main.js": "/aribnb-experiences/static/js/main.0acc4f4b.js",
+    "index.html": "/aribnb-experiences/index.html",
+    "main.424a8f97.css.map": "/aribnb-experiences/static/css/main.424a8f97.css.map",
+    "main.0acc4f4b.js.map": "/aribnb-experiences/static/js/main.0acc4f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424a8f97.css",
+    "static/js/main.0acc4f4b.js"
+  ]
+}
